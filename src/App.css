@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.navbox {
+  border: 1px solid gray;
+  background-color: #282c34;
+  display: flex;
+  font-size: 2rem;
+  justify-content: space-between;
+  padding: 20px;
+}
+.navbox a {
+  color: #fff;
+  text-decoration: none;
+}

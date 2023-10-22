@@ -1,0 +1,94 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "MandS Consulting",
+      "email": "mandsconsulting@gmail.com",
+      "phone": "8787878787",
+      "Address": "GMIT Park, Sector 143 Noida ",
+      "type": "Salesforce"
+    },
+    {
+      "id": 2,
+      "name": "IHL",
+      "email": "ihl@in.com1",
+      "phone": "9999999999",
+      "Address": "Gurugram",
+      "type": "customdev"
+    },
+    {
+      "id": 5,
+      "name": "NT Technologies",
+      "email": "nt@gmail.com",
+      "phone": "7286688937",
+      "Address": "India",
+      "type": "salesforce"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "MandS Consulting Project",
+      "email": "mandsconsulting@gmail.com",
+      "phone": "8787878787",
+      "Address": "GMIT Park, Sector 143 Noida ",
+      "type": "Salesforce"
+    },
+    {
+      "id": 2,
+      "name": "IHL Project",
+      "email": "ihl@in.com1",
+      "phone": "9999999999",
+      "Address": "Gurugram",
+      "type": "customdev"
+    },
+    {
+      "id": 3,
+      "name": "Dr.TNR Infotech Project",
+      "email": "tnr@gmail.com",
+      "phone": "8989898989",
+      "Address": "Delhi NCR",
+      "type": "Salesforce"
+    },
+    {
+      "id": 4,
+      "name": "Nihira Techiees Project",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "Jaipur, Rajasthan",
+      "type": "customdev"
+    },
+    {
+      "id": 5,
+      "name": "NT Technologies Project okay",
+      "email": "nt@gmail.com",
+      "phone": "7286688937",
+      "Address": "India",
+      "type": "salesforce"
+    },
+    {
+      "id": 7,
+      "name": "Akash Meena Project",
+      "email": "akash.meena23@gmail.com",
+      "phone": "7296803539",
+      "Address": "New Delhi",
+      "type": "customdev"
+    },
+    {
+      "id": 8,
+      "name": "Kuldeep Meena Project",
+      "email": "2291kuldeep@gmail.com",
+      "phone": "7082967821",
+      "Address": "Panipat",
+      "type": "customdev"
+    },
+    {
+      "id": 9,
+      "name": "roject 9",
+      "email": "project@gmail.co",
+      "phone": "00000000000000000000",
+      "Address": "000000000000000",
+      "type": "Salesforce"
+    }
+  ]
+}
